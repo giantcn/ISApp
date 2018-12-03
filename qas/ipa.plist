@@ -15,7 +15,7 @@
         <key>metadata</key>
         <dict>
           <key>bundle-identifier</key>
-          <string>com.egivesoft.giant</string>
+          <string>com.egivesoft.gianttest</string>
           <key>bundle-version</key>
           <string>1.00.0000</string>
           <key>kind</key>
